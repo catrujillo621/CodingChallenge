@@ -25,6 +25,7 @@ def search(total):
             ]
 
 
+
 if __name__ == "__main__":
     result = main()
     end = len(result)
